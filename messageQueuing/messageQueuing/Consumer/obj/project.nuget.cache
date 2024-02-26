@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWsdFdSM6ERteJpLqe7UuTr773k8z1+xrLyszBICKxRYNO13THMBFNikGxVtiT2D9eP3944ELQ/XexkK6ZqrEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wesley\\OneDrive\\Documents\\Github\\messageQueuing\\messageQueuing\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wesley\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
